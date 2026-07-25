@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="public/logo.png" alt="ShopNest Logo" width="96" height="96" />
+<img src="public/favicon.svg" alt="ShopNest Logo" width="96" height="96" />
 
 # ShopNest Desktop
 ### Multi-Tenant Point of Sale & Business Management System
@@ -19,7 +19,7 @@ It connects to a live cloud backend while also working **fully offline** — syn
 
 <br/>
 
-[📥 **Download for Windows**](https://github.com/rumman2004/ShopNest-Desktop/releases) · [🌐 **Live Web App**](https://shopnest-backend-jade.vercel.app) · [🐛 **Report a Bug**](https://github.com/rumman2004/ShopNest-Desktop/issues) · [💡 **Request Feature**](https://github.com/rumman2004/ShopNest-Desktop/issues)
+[📥 **Download for Windows**](https://github.com/rumman2004/ShopNest-Desktop/releases) · [🌐 **Live Web App**](https://shopnest-peach.vercel.app/) · [🐛 **Report a Bug**](https://github.com/rumman2004/ShopNest-Desktop/issues) · [💡 **Request Feature**](https://github.com/rumman2004/ShopNest-Desktop/issues)
 
 </div>
 
