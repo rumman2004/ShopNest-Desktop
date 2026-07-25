@@ -542,11 +542,6 @@ const Navbar = memo(function Navbar({ scrolled }) {
       </div>
 
       <div className="flex items-center gap-2">
-        <a href="https://github.com/rumman2004/ShopNest-Desktop/releases" target="_blank" rel="noopener noreferrer">
-          <Button variant="outline" size="sm" className="hidden sm:inline-flex items-center gap-1.5 border-[#004643]/30 text-[#004643] hover:bg-[#004643]/10 font-semibold">
-            <Monitor size={14} /> Download App
-          </Button>
-        </a>
         <Link to="/login">
           <Button variant="ghost" size="sm">Sign In</Button>
         </Link>
@@ -647,20 +642,6 @@ export default function LandingPage() {
               Start Free Trial
             </Button>
           </Link>
-          <a
-            href="https://github.com/rumman2004/ShopNest-Desktop/releases"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="
-              inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-xl text-base font-bold
-              bg-[#004643] text-white shadow-xl shadow-[#004643]/25
-              hover:bg-[#0f766e] hover:scale-[1.02] active:scale-[0.98]
-              transition-all duration-200 border border-white/10 w-full sm:w-auto
-            "
-          >
-            <Download size={18} className="animate-bounce" />
-            Download Desktop App (.exe)
-          </a>
           <button
             onClick={scrollToFeatures}
             className="
